@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity implements SwipeRefreshLayou
 //        Map<String,String> title3 = new HashMap<>();
 //        Map<String,String> title4 = new HashMap<>();
 //        Map<String,String> title5 = new HashMap<>();
-//
+///
         for (int i = 0; i < arrayContent.length; i++) {
             title.put("title",arrayContent[i]);
             titleLength = String.valueOf(arrayContent[i].length());
